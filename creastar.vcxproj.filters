@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\CreaMBase_C.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Ccases.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Cmap.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="way.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="CPathFinder.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Chud.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="CchoixMap.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>hpp</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>hpp</Filter>
+    </ClInclude>
+    <ClInclude Include="Ccases.hpp">
+      <Filter>hpp</Filter>
+    </ClInclude>
+    <ClInclude Include="Cmap.hpp">
+      <Filter>hpp</Filter>
+    </ClInclude>
+    <ClInclude Include="way.hpp">
+      <Filter>hpp</Filter>
+    </ClInclude>
+    <ClInclude Include="CPathFinder.hpp">
+      <Filter>hpp</Filter>
+    </ClInclude>
+    <ClInclude Include="Chud.hpp">
+      <Filter>hpp</Filter>
+    </ClInclude>
+    <ClInclude Include="CchoixMap.hpp">
+      <Filter>hpp</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="cpp">
+      <UniqueIdentifier>{30d88670-6f4b-468a-a1bd-78fedabe88e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="hpp">
+      <UniqueIdentifier>{4ac960f6-bbf3-4673-bb2d-2df2ee78b65d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
